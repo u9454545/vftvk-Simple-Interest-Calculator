@@ -26,7 +26,7 @@ function compute()
     
 }  
     result=document.getElementById("result");
-    result.innerHTML="If you deposit "+principal +", "+"at an interest rate of "+rate+"%."+
+    result.innerHTML="If you deposit "+principa+", "+"at an interest rate of "+rate+"%."+
     "You will receive an amount of "+interest+" in the year "+year;
     }
 
